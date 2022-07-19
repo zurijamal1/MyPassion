@@ -1,13 +1,13 @@
 .top-section{
-    background-color: bisque;
+    background-color: honeydew;
 font-family: Arial, Helvetica, sans-serif;
 color: grey;
 
 }
 .Caption{
-background-color: bisque;
+background-color: honeydew;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-color: black;
+color: deepskyblue;
 
 
 
@@ -16,15 +16,19 @@ color: black;
 body{
 
 
-    background-color: darksalmon;
+    background-color: lightcyan;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: navy;
 }
 .image-section{
-background-color: azure;
+
 
 
 
 
 }
+.image-one-two-three{
+text-align: center;
 
+
+}
