@@ -27,8 +27,30 @@ body{
 
 
 }
-.image-one-two-three{
+.image-section{
 text-align: center;
 
 
 }
+.list section{
+background-color: lightcyan;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.Navigation{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: black;
+
+
+
+}
+.navbar-brand{
+color: black;
+
+}
+.nav-link {
+    background-color: azure;
+    }
+    
